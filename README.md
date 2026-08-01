@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=220&section=header&text=Archit%20here%20%F0%9F%91%8B&fontSize=45&fontColor=222222&animation=fadeIn&fontAlignY=35&desc=Proud%20Indian%20Programmer%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF9933&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=BTech+Final+Year+%40+VIT+Chennai;Root+Node%3A+Navi+Mumbai%2C+India;Building+tools+that+make+student+life+easier;Python+%7C+C+%7C+C%2B%2B+%7C+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF9933&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=BTech+Second+Year+%40+VIT+Chennai;Root+Node%3A+Navi+Mumbai%2C+India;Building+tools+that+make+student+life+easier;Python+%7C+C+%7C+C%2B%2B+%7C+Java" alt="Typing SVG" />
 </a>
 
 </div>
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <div align="center">
 
@@ -97,4 +97,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:138808,50:FFFFFF,100:FF9933&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:138808,50:FFFFFF,100:FF9933&height=120&section=footer" /> -->
